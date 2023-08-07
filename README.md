@@ -57,6 +57,8 @@ Notebook is built using modern web technologies, including:
 - Database: MongoDB
 - Authentication: JWT (JSON Web Tokens)
 
+## Drive link [Demo Vedio](https://drive.google.com/file/d/1QM-Z9mpGgIaNFZobmslaBsKOhkVpNSpY/view?usp=drive_link)
+
 ## 🤝Contributing
 Contributions to Notebook are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to fork the repository and submit a pull request.
 
